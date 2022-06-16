@@ -1,0 +1,22 @@
+{
+  "name": "pymes-puntos-colombia",
+  "version": "1.0.0",
+  "description": "Proyecto de automatizacion puntos colomnbia pymes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open":"cypress open"
+  },
+
+  "keywords": [
+    "Test",
+    "Pymes",
+    "Automatizacion",
+    "Cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
